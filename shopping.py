@@ -1,3 +1,4 @@
+#Shopping cart system 
 items=[]
 
 def add_item(item_name,bill):
