@@ -1,2 +1,8 @@
 # expense-tracker
-A simple expense tracker built in python to practice functions, loops, and data structures. 
+A simple shopping cart system built in python to practice functions, loops, and dictionaries. 
+
+Features:
+- Add items
+- View all items
+- Total Calculation
+- Remove item
